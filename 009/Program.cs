@@ -7,3 +7,10 @@ for (int j=2;j<=N;j=j+2)
 {
     System.Console.Write($"{j} ");
 }
+/* for (int j=1;j<=N;j=j+1)
+{   if (j%2==0)
+    {
+    System.Console.Write($"{j} ");
+    }
+}
+*/
